@@ -1,0 +1,23 @@
+body{
+    margin: auto;
+    width: 50%;
+    background-color: #040302;
+    color: cornsilk;
+}
+.title{
+    margin-left: 250px;
+}
+.form-title{
+    margin-left: 270px;
+}
+.create-form{
+    margin-left: 200px;
+}
+.un-eaten{
+    display: inline;
+    float: left;
+}
+.eaten{
+    display: inline;
+    float: right;
+}
